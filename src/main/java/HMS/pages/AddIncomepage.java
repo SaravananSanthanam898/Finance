@@ -19,7 +19,7 @@ public class AddIncomepage extends testbase{
 	@FindBy(css="input[name='amount']")WebElement enteramnt;
 	@FindBy(css="input[name='documents']")WebElement uploadingfile;
 	@FindBy(css="textarea[name='description']")WebElement enterdscrptn;
-	@FindBy(css="button.clse")WebElement clickclosebutton;
+	@FindBy(css="buon.clse")WebElement clickclosebutton;
 	
 	public AddIncomepage()
 	{
